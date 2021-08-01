@@ -1,0 +1,45 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+h1{text-align: left; color: #F4C76C; text-indent: 150px;}
+h3{text-align: left; font-style: italic; text-indent: 200px;}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #bb8a28;
+    background-image: url("../images/raven-1002849_1280.jpg");
+    background-size: 100%,100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    border-style: outset;
+    border-width: 18px;
+    border-color: rgb(177, 125, 20, 0.5)
+}
+#poem{
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+}
+pre{
+    white-space: pre-line;
+    text-indent: 50px;
+}
+q{
+    font-style: italic;
+    letter-spacing: 2px;
+}
+span{
+    border-bottom-style: ridge;
+    border-bottom-color: rgb(230, 132, 35);
+}
+#bio{
+    text-align: left;
+    color: #F4C76C;
+    border-top-style: double;
+    border-top-width: 9px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 13px;
+}
+#source{
+    font-weight: 700;
+    font-size: 15px;
+}
